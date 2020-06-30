@@ -1,7 +1,7 @@
 'use strict';
 
 const jwt = require('jsonwebtoken');
-const secret = 'ZHOUGUANG';// 加密的key（密钥）
+const secret = 'ZHOUGUANG';// 加密的key（密钥） 自己去QQ邮箱申请 这个是我的 不要用
 
 module.exports = {
     // 成功响应全局方法
